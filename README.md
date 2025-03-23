@@ -1,2 +1,2 @@
-# Curso-Python-Basico
+# Curso-Python
 Curso básico de Python.
